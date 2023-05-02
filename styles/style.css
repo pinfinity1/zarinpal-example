@@ -621,6 +621,10 @@ footer .footer-links {
     color: #000;
 }
 
+.footer_down_space {
+    height: 56px;
+}
+
 .bell {
     background-color: #2e82ff;
     width: fit-content;
